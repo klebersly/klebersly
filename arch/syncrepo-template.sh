@@ -27,7 +27,7 @@
 # lot of traffic.
 
 # Directory where the repo is stored locally. Example: /srv/repo
-target=""
+target="/archiso"
 
 # Lockfile path
 lock="/var/lock/syncrepo.lck"
