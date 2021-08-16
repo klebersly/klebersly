@@ -35,7 +35,7 @@ lock="/var/lock/syncrepo.lck"
 # If you want to limit the bandwidth used by rsync set this.
 # Use 0 to disable the limit.
 # The default unit is KiB (see man rsync /--bwlimit for more)
-bwlimit=0
+bwlimit=5000
 
 # The source URL of the mirror you want to sync from.
 # If you are a tier 1 mirror use rsync.archlinux.org, for example like this:
