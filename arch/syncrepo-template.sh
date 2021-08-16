@@ -47,7 +47,7 @@ source_url='rsync://archlinux.c3sl.ufpr.br/archlinux/'
 # An HTTP(S) URL pointing to the 'lastupdate' file on your chosen mirror.
 # If you are a tier 1 mirror use: https://rsync.archlinux.org/lastupdate
 # Otherwise use the HTTP(S) URL from your chosen mirror.
-lastupdate_url=''
+lastupdate_url='http://archlinux.c3sl.ufpr.br/lastupdate'
 
 #### END CONFIG
 
